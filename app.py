@@ -1,4 +1,6 @@
 print("hai")
 
 print("fine")
-print("cool")
+
+
+print("cool everything")
