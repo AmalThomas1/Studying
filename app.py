@@ -1,3 +1,3 @@
-print("hai h")
+print("hai")
 
 print("fine")
