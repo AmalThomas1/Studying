@@ -1,1 +1,1 @@
-print("hai h")
+print("hai ")
